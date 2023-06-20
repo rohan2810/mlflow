@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/11c7364ad7704f99976c98291449577c/artifacts
+end_time: 1687242748173
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11c7364ad7704f99976c98291449577c
+run_name: popular-swan-91
+run_uuid: 11c7364ad7704f99976c98291449577c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687242466517
+status: 4
+tags: []
+user_id: root

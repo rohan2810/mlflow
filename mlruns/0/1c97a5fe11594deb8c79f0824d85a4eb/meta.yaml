@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1c97a5fe11594deb8c79f0824d85a4eb/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c97a5fe11594deb8c79f0824d85a4eb
+run_name: amazing-lark-492
+run_uuid: 1c97a5fe11594deb8c79f0824d85a4eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687241580413
+status: 1
+tags: []
+user_id: rohansurana

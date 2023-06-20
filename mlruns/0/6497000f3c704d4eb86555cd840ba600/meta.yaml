@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6497000f3c704d4eb86555cd840ba600/artifacts
+end_time: 1687225239764
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6497000f3c704d4eb86555cd840ba600
+run_name: bemused-mouse-309
+run_uuid: 6497000f3c704d4eb86555cd840ba600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687225237191
+status: 3
+tags: []
+user_id: rohansurana

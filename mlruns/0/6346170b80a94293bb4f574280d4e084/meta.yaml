@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6346170b80a94293bb4f574280d4e084/artifacts
+end_time: 1687225318094
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6346170b80a94293bb4f574280d4e084
+run_name: auspicious-bug-777
+run_uuid: 6346170b80a94293bb4f574280d4e084
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687225318053
+status: 4
+tags: []
+user_id: rohansurana

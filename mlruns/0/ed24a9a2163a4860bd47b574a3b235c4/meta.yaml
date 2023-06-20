@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ed24a9a2163a4860bd47b574a3b235c4/artifacts
+end_time: 1687225360277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed24a9a2163a4860bd47b574a3b235c4
+run_name: orderly-turtle-124
+run_uuid: ed24a9a2163a4860bd47b574a3b235c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687225357333
+status: 3
+tags: []
+user_id: rohansurana
