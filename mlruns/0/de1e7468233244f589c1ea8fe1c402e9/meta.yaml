@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/de1e7468233244f589c1ea8fe1c402e9/artifacts
+end_time: 1687243126016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de1e7468233244f589c1ea8fe1c402e9
+run_name: melodic-shad-293
+run_uuid: de1e7468233244f589c1ea8fe1c402e9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687243122110
+status: 4
+tags: []
+user_id: rohansurana

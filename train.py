@@ -51,7 +51,7 @@ def main():
         mlflow.log_metric("r2", r2)
         mlflow.log_metric("mae", mae)
 
-        mlflow.sklearn.log_model(model, "model")
+        mlflow.sklearn.log_model(lr, "model")
 
 def eval_metrics(actual, pred):
     rmse = np.sqrt(mean_squared_error(actual, pred))
