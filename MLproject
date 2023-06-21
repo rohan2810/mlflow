@@ -6,4 +6,7 @@ entry_points:
     parameters:
       alpha: {type: float, default: 0.5}
       l1_ratio: {type: float, default: 0.5}
-    command: "python3 train.py {alpha} {l1_ratio}"
+      file_name: {type: str}
+      model_name: {type: str, default: ""}
+      model_version: {type: int, default: 0}
+    command: "python3 {file_name} {alpha} {l1_ratio} {model_name} {model_version}"
