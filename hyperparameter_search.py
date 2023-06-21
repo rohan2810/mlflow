@@ -47,8 +47,8 @@ def main():
         print("  alpha: %s" % best_alpha)
         print("  l1_ratio: %s" % best_l1_ratio)
 
-        mlflow.log_param("best_alpha", best_alpha)
-        mlflow.log_param("best_l1_ratio", best_l1_ratio)
+        mlflow.log_metric("best_alpha", best_alpha)
+        mlflow.log_metric("best_l1_ratio", best_l1_ratio)
 
 def eval_metrics(actual, pred):
     rmse = np.sqrt(mean_squared_error(actual, pred))
